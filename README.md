@@ -3,10 +3,10 @@
 
 for example, we can receive tradeview alert to telegram channel.  
 from gmail  
-![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_gmail.png?token=GHSAT0AAAAAABUVO6VDXDI6YPZF45AWOBXOYUMVV3Q)
+![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_gmail.png?token=GHSAT0AAAAAABUVO6VCDGF6AIKGEH4CTQMAYUMWD2Q)
 
 to telegram  
-![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_notice.png?token=GHSAT0AAAAAABUVO6VDCSS3W7C6ANNOQ726YUMVTSA)
+![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_notice.png?token=GHSAT0AAAAAABUVO6VCVJS7MCYXWZDJQKZWYUMWEDA)
 
 # How to do?
 
