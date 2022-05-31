@@ -27,7 +27,7 @@ For example, we can receive tradeview alert from gmail
 ![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_gmail.png?token=GHSAT0AAAAAABUVO6VCDGF6AIKGEH4CTQMAYUMWD2Q)  
 
 個Bot就會自動射啲message過去Telegram  
-The bot will send message to Telegram automatically. 
+The bot will send message to Telegram automatically.  
 ![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_notice.png?token=GHSAT0AAAAAABUVO6VCVJS7MCYXWZDJQKZWYUMWEDA)
 
 # Instruction 點樣 Deploy
