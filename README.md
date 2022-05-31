@@ -3,7 +3,10 @@
 ![forks](https://img.shields.io/github/forks/umzr/Auto-push-gmail-to-telegram-channel-or-group)
 ![stars](https://img.shields.io/github/stars/umzr/Auto-push-gmail-to-telegram-channel-or-group)
 ![](https://img.shields.io/github/license/umzr/Auto-push-gmail-to-telegram-channel-or-group)
- 
+
+Document仲未搞掂 (50%)  
+Document in progress (50%)  
+
 TL;DR: Call gmail API and connect telegram bot
 
 # introduction 介紹
