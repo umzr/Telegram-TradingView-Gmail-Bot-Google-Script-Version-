@@ -24,9 +24,11 @@ TL;DR: Call gmail API and connect telegram bot
 <p align="center">
     Author 作者:  
     </br> 
-        風信子(Hyacinthus orientalis -- HO): <a href="https://t.me/TeleDele">Telegram</a> 
+        風信子(Hyacinthus orientalis -- HO): <a href="https://t.me/TeleDele">Telegram</a>
     </br>
         UMZR: <a href="https://github.com/umzr">Github</a> 
+    </br>
+    Any Question Please Post on Github Issue
 </p>
 
 點解會放上網? 因為我前嗰排(2022)搵唔到 intern。迫不得已求其搵啲project 掉上去Github，希望有人收留我。  
