@@ -6,8 +6,11 @@
 
 Document仲未搞掂 (50%)  
 Document in progress (50%)  
-
 TL;DR: Call gmail API and connect telegram bot
+
+# NEW 
+
+(5/6/2022): updated split function. It could fix the Telegram max 4096 character problems.
 
 # introduction 介紹
 
@@ -33,7 +36,20 @@ For example, we can receive tradeview alert from gmail
 The bot will send message to Telegram automatically.  
 ![image](https://raw.githubusercontent.com/umzr/Auto-push-gmail-to-telegram-channel-or-group/main/src/image/tradingview_notice.png?token=GHSAT0AAAAAABUVO6VCVJS7MCYXWZDJQKZWYUMWEDA)
 
-# Instruction 點樣 Deploy
+# Instruction 點樣 Deploy (in progress)
+
+1. goto [@BotFather](https://t.me/BotFather) create new bot  
+1.1 you will recerive the API key for the connect the google script  
+
+        Done! Congratulations on your new bot. You will find it at <link> You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+        Use this token to access the HTTP API:
+        `HTTP API`
+        Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+        For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+# Instruction 點樣 Deploy (old version)
 
 1. goto [@BotFather](https://t.me/BotFather) create new bot
 2. copy my script to [google script](https://script.google.com/).
