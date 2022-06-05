@@ -4,8 +4,8 @@
 ![stars](https://img.shields.io/github/stars/umzr/Auto-push-gmail-to-telegram-channel-or-group)
 ![](https://img.shields.io/github/license/umzr/Auto-push-gmail-to-telegram-channel-or-group)
 
-Document仲未搞掂 (50%)  
-Document in progress (50%)  
+Document仲未搞掂 (finish)  
+Document in progress (finish)  
 TL;DR: Call gmail API and connect telegram bot
 
 # NEW 
@@ -51,6 +51,23 @@ The bot will send message to Telegram automatically.
         Keep your token secure and store it safely, it can be used by anyone to control your bot.
 
         For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+    you will recerve the `HTTP API` like:  
+            `413425428964:AIGoToSchoolByBusgprovaFkfXY` (just example)  
+
+2. Open Google Script and plate my code  
+    [Youtube Video Tutorial](https://www.youtube.com/watch?v=YV9W-F6TaCY)  
+3. Find your group Chat ID by using @ShowJsonBot (something kind of this I haven't test on this) 
+4. Plate your group chat ID to my code `clientID` and HTTP API to `TelegramBotToken`  
+
+5. Change the search variable `var threads = GmailApp.search('is:unread subject:{<Target Title>}');` (line 34)   
+And `if (message[0].getSubject() == "<Target Title>") ` (line 43)
+
+6. Set the `Simple Triggers` for each second.
+
+7. Deploy your App
+
+8. Enjoy your Bot
 
 # Instruction 點樣 Deploy (old version)
 
