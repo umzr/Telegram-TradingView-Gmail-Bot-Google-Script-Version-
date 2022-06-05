@@ -11,6 +11,9 @@ TL;DR: Call gmail API and connect telegram bot
 # NEW 
 
 (5/6/2022): updated split function. It could fix the Telegram max 4096 character problems.
+    Demo:
+    ![image](https://na.cx/i/Bm2Z99D.png)
+
 
 # introduction 介紹
 
