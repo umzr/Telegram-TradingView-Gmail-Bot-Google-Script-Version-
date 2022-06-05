@@ -1,3 +1,7 @@
+# Telegram Gmail Bot (Google Script Version)
+
+The most stable, Simplest, No maintaining Time, No Python Server Host, Easiest, No Python, Telegram Gmail Bot (Google Script Version) 
+
 # Auto push gmail to telegram channel or group [Send gmail message 去 Telegram Bot / group / chat]
 ![issues](https://img.shields.io/github/issues/umzr/Auto-push-gmail-to-telegram-channel-or-group)
 ![forks](https://img.shields.io/github/forks/umzr/Auto-push-gmail-to-telegram-channel-or-group)
