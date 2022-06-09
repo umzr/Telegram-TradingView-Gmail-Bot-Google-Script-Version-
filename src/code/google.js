@@ -47,8 +47,9 @@ function searchUnreadEmail() {
             }
 
             //array loop if gmail message string < 4096
-            for (var j = 0; j < outputString.length; ++j) {
-                var lastPage = outputString.length - 1
+            var res = outputString ? outputString.length : 0;
+            for (var j = 0; j < res; ++j) {
+                var lastPage = res - 1
                 var strLastPage = lastPage.toString()
                 if (j === 0) {
                     Content = '●(' + 0 + '/' + strLastPage + ")" + outputString[j];
